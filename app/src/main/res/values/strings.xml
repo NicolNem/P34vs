@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">P34</string>
+    <string name="TextOnButton">click here</string>
+    <string name="TextOnTextBox">Number Of Clickes:</string>
+</resources>
